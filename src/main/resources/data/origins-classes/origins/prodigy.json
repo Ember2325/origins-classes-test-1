@@ -17,6 +17,7 @@
 	],
 	"icon": "minecraft:diamond",
 	"impact": 0,
+	"order": 15,
 	"name": "Prodigy",
 	"description": "Just a PRODIGY!"
 }
