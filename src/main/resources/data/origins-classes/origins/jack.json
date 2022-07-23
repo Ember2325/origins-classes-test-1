@@ -1,1 +1,20 @@
-
+{
+  "powers": [
+    "origins-classes:less_bow_slowdown",
+    "origins-classes:tamed_animal_boost",
+    "origins-classes:quality_equipment",
+    "origins-classes:better_enchanting",
+    "origins-classes:better_crafted_food",
+    "origins-classes:no_sprint_exhaustion",
+    "origins-classes:more_crop_drops",
+    "origins-classes:tree_felling",
+    "origins-classes:trade_availability",
+    "origins-classes:more_stone_break_speed",
+    "origins-classes:twin_breeding",
+    "origins-classes:more_attack_damage",
+    
+  ],
+  "icon": "minecraft:nether_star",
+  "order": 14,
+  "impact": 0
+}
