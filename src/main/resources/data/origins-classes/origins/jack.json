@@ -1,20 +1,29 @@
 {
   "powers": [
     "origins-classes:less_bow_slowdown",
+    "origins-classes:less_bow_slowdown",
+    "origins-classes:tamed_potion_diffusal",
     "origins-classes:tamed_animal_boost",
     "origins-classes:quality_equipment",
+    "origins-classes:efficient_repairs",
     "origins-classes:better_enchanting",
+    "origins-classes:longer_potions",
     "origins-classes:better_crafted_food",
+    "origins-classes:more_smoker_xp",
     "origins-classes:no_sprint_exhaustion",
     "origins-classes:more_crop_drops",
+    "origins-classes:better_bone_meal"
     "origins-classes:tree_felling",
+    "origins-classes:more_planks_from_logs",
     "origins-classes:trade_availability",
     "origins-classes:more_stone_break_speed",
+    "origins-classes:no_mining_exhaustion",
     "origins-classes:twin_breeding",
+    "origins-classes:more_animal_loot",
     "origins-classes:more_attack_damage",
     
   ],
-  "icon": "minecraft:nether_star",
+  "icon": "minecraft:diamond",
   "order": 14,
   "impact": 0
 }
